@@ -2,6 +2,7 @@
 this is backport of [m3u8-parser](https://github.com/carlanton/m3u8-parser) for Java6.
 all Java8 API (java.time.*) are updated to [ThreeTenBp](https://github.com/ThreeTen/threetenbp)'s one.
 
+
 # m3u8-parser
 [![Build Status](https://travis-ci.org/carlanton/m3u8-parser.svg?branch=master)](https://travis-ci.org/carlanton/m3u8-parser) [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.lindstrom/m3u8-parser/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.lindstrom/m3u8-parser)
 [![Javadocs](https://www.javadoc.io/badge/io.lindstrom/m3u8-parser.svg)](https://www.javadoc.io/doc/io.lindstrom/m3u8-parser)
