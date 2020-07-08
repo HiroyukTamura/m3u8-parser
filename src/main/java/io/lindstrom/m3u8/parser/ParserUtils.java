@@ -1,10 +1,11 @@
 package io.lindstrom.m3u8.parser;
 
+import org.threeten.bp.format.DateTimeFormatter;
+import org.threeten.bp.format.DateTimeFormatterBuilder;
+
 import io.lindstrom.m3u8.model.ByteRange;
 import io.lindstrom.m3u8.model.Resolution;
 
-import java.time.format.DateTimeFormatter;
-import java.time.format.DateTimeFormatterBuilder;
 import java.util.Arrays;
 import java.util.List;
 import java.util.regex.Matcher;

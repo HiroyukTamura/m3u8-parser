@@ -1,8 +1,8 @@
 package io.lindstrom.m3u8.model;
 
 import org.immutables.value.Value;
+import org.threeten.bp.OffsetDateTime;
 
-import java.time.OffsetDateTime;
 import java.util.Optional;
 
 /**

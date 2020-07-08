@@ -1,8 +1,8 @@
 package io.lindstrom.m3u8.parser;
 
-import io.lindstrom.m3u8.model.DateRange;
+import org.threeten.bp.OffsetDateTime;
 
-import java.time.OffsetDateTime;
+import io.lindstrom.m3u8.model.DateRange;
 
 import static io.lindstrom.m3u8.parser.ParserUtils.YES;
 

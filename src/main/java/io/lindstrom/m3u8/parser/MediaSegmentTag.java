@@ -1,8 +1,8 @@
 package io.lindstrom.m3u8.parser;
 
-import io.lindstrom.m3u8.model.MediaSegment;
+import org.threeten.bp.OffsetDateTime;
 
-import java.time.OffsetDateTime;
+import io.lindstrom.m3u8.model.MediaSegment;
 
 enum MediaSegmentTag implements Tag<MediaSegment, MediaSegment.Builder> {
     EXT_X_DISCONTINUITY {
